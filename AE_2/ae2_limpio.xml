@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Propuesta de Manuel Sanchis Tormo -->
+
+<documentos>
+<!-- Libros -->
+    <libros>
+        <libro id="L0000" tipo_clase="" num_paginas="">
+            <titulo></titulo>
+            <capitulos>
+                <capitulo num_paginas="">
+                    <titulo></titulo>
+                    <contenido info=""/>
+                </capitulo>
+                <capitulo num_paginas="">
+                    <titulo></titulo>
+                    <contenido info=""/>
+                </capitulo>
+                <capitulo num_paginas="">
+                    <titulo></titulo>
+                    <contenido info=""/>
+                </capitulo>
+            </capitulos>
+            <indice></indice>
+            <sinopsis></sinopsis>
+        </libro>
+    </libros>
+<!-- Revistas -->
+    <revistas>
+        <revista id="R" tipo_clase="" num_paginas="">
+            <titulo></titulo>
+            <numero></numero>
+            <indice></indice>
+            <secciones>
+                <seccion num_paginas="">
+                    <contenido info=""/>
+                </seccion>
+                <seccion num_paginas="">
+                    <contenido info=""/>
+                </seccion>
+                <seccion num_paginas="">
+                    <contenido info=""/>
+                </seccion>
+            </secciones>
+        </revista>
+    </revistas>
+<!-- Periodicos -->
+    <periodicos>
+        <periodico id="P0000" tipo_clase="" fecha="">
+            <secciones>
+                <seccion tipo_seccion="">
+                    <articulo autor="">
+                        <contenido info=""/>  
+                    </articulo>
+                    <articulo autor="">
+                        <contenido info=""/>  
+                    </articulo>
+                </seccion>
+                <seccion tipo_seccion="">
+                    <articulo autor="">
+                        <contenido info=""/>  
+                    </articulo>
+                    <articulo autor="">
+                        <contenido info=""/>  
+                    </articulo>
+                </seccion>
+                <seccion tipo_seccion="">
+                    <articulo autor="">
+                        <contenido info=""/>  
+                    </articulo>
+                    <articulo autor="">
+                        <contenido info=""/>  
+                    </articulo>
+                </seccion>
+            </secciones>
+            <indice></indice>
+        </periodico>
+    </periodicos>
+</documentos>

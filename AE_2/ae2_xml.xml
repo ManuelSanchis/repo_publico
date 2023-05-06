@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Propuesta de Manuel Sanchis Tormo -->
+
+<documentos>
+<!-- Libros -->
+    <libros>
+        <libro id="L0001" tipo_clase="novela" num_paginas="358">
+            <titulo>Caballos desbocados</titulo>
+            <capitulos>
+                <capitulo num_paginas="3">
+                    <titulo>Capítulo 1</titulo>
+                    <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>
+                </capitulo>
+                <capitulo num_paginas="5">
+                    <titulo>Capítulo 2</titulo>
+                    <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>
+                </capitulo>
+            </capitulos>
+            <indice>Aquí va el índice</indice>
+            <sinopsis>Esta novela constituye la clave para comprender el pensamiento y la posición personal 
+            del autor ante la vida y el mundo. A través del hilo de la narración y de la rebeldía de unos 
+            protagonistas jóvenes que aspiran a una especie de pureza utópica, vamos desgranando las causas 
+            que llevaron a Mishima a su suicidio ritual.</sinopsis>
+        </libro>
+    </libros>
+<!-- Revistas -->
+    <revistas>
+        <revista id="R" tipo_clase="otras" num_paginas="78">
+            <titulo>White Dwarf</titulo>
+            <numero>46</numero>
+            <indice>Aquí va el índice</indice>
+            <secciones>
+                <seccion num_paginas="7">
+                    <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>
+                </seccion>
+                <seccion num_paginas="1">
+                    <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>
+                </seccion>
+            </secciones>
+        </revista>
+    </revistas>
+<!-- Periodicos -->
+    <periodicos>
+        <periodico id="P0001" tipo_clase="nacional" fecha="2023-05-06">
+            <secciones>
+                <seccion tipo_seccion="nacional">
+                    <articulo autor="Chiquito de la Calzada">
+                        <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>  
+                    </articulo>
+                    <articulo autor="Eugenio">
+                        <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>  
+                    </articulo>
+                </seccion>
+                <seccion tipo_seccion="economica">
+                    <articulo autor="El Dioni">
+                        <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>  
+                    </articulo>
+                    <articulo autor="Ruiz-Mateos">
+                        <contenido info="https://www.youtube.com/watch?v=HEI55-gQ0fQ"/>  
+                    </articulo>
+                </seccion>
+            </secciones>
+            <indice></indice>
+        </periodico>
+    </periodicos>
+</documentos>
