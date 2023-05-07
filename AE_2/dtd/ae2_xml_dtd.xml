@@ -75,7 +75,7 @@
     >
     <!-- Periodicos -->
     <!ELEMENT periodicos (periodico*)>
-    <!ELEMENT periodico (secciones+, indice)>
+    <!ELEMENT periodico (secciones, indice)>
     <!ATTLIST periodico
         id ID #REQUIRED
         tipo_clase (nacional | internacional) #REQUIRED
