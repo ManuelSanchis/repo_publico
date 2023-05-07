@@ -3,12 +3,12 @@
 <!-- Propuesta de Manuel Sanchis Tormo -->
 
 <!DOCTYPE documentos [
-    <!-- Debido a las limitaciones de XML y ante la imposibilidad de poder repetir el nombre de un elemento
+    <!-- Debido a las limitaciones de DTD y ante la imposibilidad de poder repetir el nombre de un elemento
     he optado por utlizar pipe en la definicion del contenido del elemento "seccion":
     
     <!ELEMENT seccion (contenido | articulo+)>
 
-    Debido a las limitaciones de XML y ante la imposibilidad de poder repetir el nombre de un elemento
+    Debido a las limitaciones de DTD y ante la imposibilidad de poder repetir el nombre de un elemento
     he optado por utlizar #IMPLIED en definicion de los atributos del elemento "seccion":
     
     <!ATTLIST seccion

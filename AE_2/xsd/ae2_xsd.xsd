@@ -1,6 +1,19 @@
 <?xml version="1.0"?>
 
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:annotation>
+        <xs:documentation>
+            Propuesta de Manuel Sanchis Tormo.
+
+            XSD que valida la estructura del archivo XML de la AE-2 de Lenguajes de Marcas.
+
+            XSD no tiene las limitaciones de DTD por lo que permite validar de forma precisa el archivo XML
+            cumpliendo con todos los requisitos del enunciado.
+
+            La conclusion a la que he llegado es que XSD es una herramient mucho mas optima que DTD a la hora
+            de validar con precision un archivo XML.    
+        </xs:documentation>
+    </xs:annotation>
     <xs:element name="documentos">
         <xs:complexType>
             <xs:sequence>
