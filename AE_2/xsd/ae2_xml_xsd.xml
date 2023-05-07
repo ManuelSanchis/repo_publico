@@ -2,7 +2,7 @@
 
 <!-- Propuesta de Manuel Sanchis Tormo -->
 
-<documentos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ae2_xmd.xmd">
+<documentos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ae2_xsd.xsd">
 <!-- Libros -->
     <libros>
         <libro id="L0001" tipo_clase="novela" num_paginas="358">
